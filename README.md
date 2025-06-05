@@ -1,1 +1,1 @@
-# 34-36-Split-Keyboard
+# Nano Split
