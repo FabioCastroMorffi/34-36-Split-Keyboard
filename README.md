@@ -1,1 +1,1 @@
-# Nano Split
+# Magnetic Split
