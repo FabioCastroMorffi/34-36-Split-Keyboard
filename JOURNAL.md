@@ -1,7 +1,7 @@
 ---
-title: "Nano Split"
+title: "Magnetic Split"
 author: "Fabio"
-description: "36 Key Wireless Split Keyboard that barely fits my hand!"
+description: "4x6 Split Keyboard with magnets that can join to become a single unit"
 created_at: "2025-06-05"
 ---
 
