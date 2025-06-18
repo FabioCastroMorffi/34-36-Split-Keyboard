@@ -39,6 +39,6 @@ Due to Fusion360 not being able, in any possible way and trust me I tried **many
 | 1        | PCB Manufacturing                    | 10.00       | JLCPCB         |                                                                      |
 | 1        | 3D Manufacturing                     |             | PrintingLegion |                                                                      |
 
-|Total (CAD, pretaxes)| Total (USD, pretaxes)|
+|Total (CAD, after taxes)| Total (USD, after taxes)|
 |---------------|--|
-|51.39| 37.52|
+|59.09| 43.17|
