@@ -86,4 +86,16 @@ I spent the last three days both fixing( and breaking) stuff; in fact, the reaso
 - [x] Created the bottom case for the keyboard.
 - [x] Made the right half(mainly with the mirroring tool).
 
-![]
+![Joining CAD splits](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-49-36.png)
+
+![With 3d PCB](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-48-53.png)
+
+## What's missing?
+
+- Finishing GitHub (uploading files, updating README and BOM, etc)
+- Make post on #highway-pitstop and complete form
+- Maybe have to change it because its not complex enough, maybe(I think its the 3d design is not that bad)
+
+### Time Spent: 8 hours (Getting ready to ship tomorrowww)
+
+
