@@ -1,7 +1,7 @@
 ---
 title: "Magnetic Split"
 author: "Fabio"
-description: "3x6 Split Keyboard with magnets that join to become a single unit"
+description: "32 key Split Keyboard with magnets that join to become a single unit"
 created_at: "2025-06-05"
 ---
 ## Total Time: 25h
