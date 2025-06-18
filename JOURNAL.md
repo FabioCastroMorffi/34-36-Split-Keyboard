@@ -1,10 +1,10 @@
 ---
 title: "Magnetic Split"
 author: "Fabio"
-description: "4x6 Split Keyboard with magnets that can join to become a single unit"
+description: "32 key Split Keyboard with magnets that join to become a single unit"
 created_at: "2025-06-05"
 ---
-## Total Time: 17h
+## Total Time: 25h
 ## June 6th 2025 - Initial idea
 
 I've wanted to build a split keyboard for some time but with an additional twist, something (slightly) unique to it. After brainstorming a for a little while, I found I wanted an original design that had something to do with magnets (Love magnets!). Watching projects such as this one ![Split Keebs that could be joined](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/78c3c8f0-ee08-11ee-b7f7-2fbf0d57bb96.jpeg)
