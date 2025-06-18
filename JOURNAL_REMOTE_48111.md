@@ -85,3 +85,10 @@ I spent the last three days both fixing( and breaking) stuff; in fact, the reaso
 - [x] Added a male/female receptacles as well as the magnets holes (4 Neodyum Magnets will be used with dimensions 5x2mm, due to the small weight of the case it should be enough).
 - [x] Created the bottom case for the keyboard.
 - [x] Made the right half(mainly with the mirroring tool).
+
+
+
+
+
+
+

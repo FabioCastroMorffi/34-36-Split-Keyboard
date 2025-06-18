@@ -74,14 +74,10 @@ Thinking it through, the magnet is nothing but a gimmick, snake oil, on a projec
 
 ### Time spent: 6 hours 
 
-## June 17th 2025- The CAD (Part 2)
 
-I spent the last three days both fixing( and breaking) stuff; in fact, the reason I didn't separate today's journal into two parts is because I was furious yesterday thinking I had lost some very important changes. This is a great opportunity to say: 'God bless **Version Control**'. Due to an involontary change I made that I only caught later on, I had to restore my build to a much older version. This unfortunately implied I had to lose some of the progress I had made (or not??, if theres a way, I didnt find it) in order to fix that error (still better than having to fix all of it). This made me lose some time, but, in retrospective, it was a great learning experience.
 
-## Main improvements:
 
-- [x] Holes are alligned.
-- [x] Used chamfer and fillet on some edges to diminish sharp, ugly corners.
-- [x] Added a male/female receptacles as well as the magnets holes (4 Neodyum Magnets will be used with dimensions 5x2mm, due to the small weight of the case it should be enough).
-- [x] Created the bottom case for the keyboard.
-- [x] Made the right half(mainly with the mirroring tool).
+
+
+
+
