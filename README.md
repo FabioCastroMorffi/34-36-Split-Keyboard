@@ -19,9 +19,9 @@ Even though the obstacles were many, mainly on the 3D modelling (omg its hard), 
 ## CAD
 Due to Fusion360 not being able, in any possible way and trust me I tried **many** alternatives, in Linux, I had to change to OnShape. And It was Great. OnShape provides a great experience that, to me, felt much more intuitive than Fusion.
 
-[3D design](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-48-53.png)
+![3D design](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-48-53.png)
 
-[Kissing](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-49-36.png)
+![Kissing](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-49-36.png)
 
 
 
