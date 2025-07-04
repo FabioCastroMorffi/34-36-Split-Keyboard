@@ -4,7 +4,7 @@ author: "Fabio"
 description: "36 Key Split Keyboard with three layers of PCB"
 created_at: "2025-06-05"
 ---
-[Jump to Current Design](##July-4th-2025---Big-Change)
+[Jump to Current Design](#july-4th-2025---big-change)
 ## Total Time: 25h
 ## June 6th 2025 - Initial idea
 
