@@ -28,17 +28,20 @@ Due to Fusion360 not being able, in any possible way and trust me I tried **many
 ## BOM
 | Quantity | Item                                 | Price (CAD) | Vendor         | Link                                                                 |
 |----------|--------------------------------------|-------------|----------------|----------------------------------------------------------------------|
-| 2        | RP Pico 2040                         | 6.42        | Aliexpress     | [Link](https://www.aliexpress.com/item/1005008555896373.html)       |
-| 1        | 40 PCS kailh box V2 (switches)       | 14.32       | Aliexpress     | [Link](https://www.aliexpress.com/item/1005005704076690.html)       |
-| 1        | 4 PCS Plate Mounted Stabilizers 1.2mm and 1.6mm | 5.31        | Aliexpress     |       [link](https://www.aliexpress.com/item/1005008653693326.html?spm=a2g0o.productlist.main.3.23e05929KQlpOC&algo_pvid=0c9c3bfe-7d7e-4887-9b54-a463845e1e9d&algo_exp_id=0c9c3bfe-7d7e-4887-9b54-a463845e1e9d-2&pdp_ext_f=%7B%22order%22%3A%2251%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%216.94%215.79%21%21%2135.67%2129.74%21%402101ec1a17502692252251994ef155%2112000046108045637%21sea%21CA%212287966990%21ABX&curPageLogUid=L5aYy12RtPEM&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                               |
-| 1        | 100 PCS Through Hole Diodes (1N4148) | 2.74        | Aliexpress     | [Link](https://www.aliexpress.com/item/1005007970187200.html)       |
+| 2        | RP Pico 2040 Green with Pin          | 6.42        | Aliexpress     | [Link](https://shorturl.at/I2swX)       |
+| 1        | 40 PCS kailh box V2 (linear switches)| 1.38(with welcome deal)      | Aliexpress     | [Link](https://www.aliexpress.com/item/1005005704076690.html) |                                                  
+| 1        | 100 PCS Through Hole Diodes (1N4148) | 2.80        | Aliexpress     | [Link](https://shorturl.at/UQSGh)     |
 | 2        | 0.91 Inch 128x32 Oled Display        | 5.00        | Aliexpress     | [Link](https://www.aliexpress.com/item/32709141534.html)            |
-| 1        | 61 PCS Blank full-keyboard keycaps   | 2.40        | Aliexpress     |    [link](https://www.aliexpress.com/item/1005006616262992.html?spm=a2g0o.productlist.main.3.dcb05cedlk1GNh&algo_pvid=113734e3-d1bd-4f45-a6b5-5df0c94d6aee&algo_exp_id=113734e3-d1bd-4f45-a6b5-5df0c94d6aee-2&pdp_ext_f=%7B%22order%22%3A%2215%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2112.61%212.40%21%21%2164.79%2112.34%21%40210337bc17502616148926626ece9c%2112000037834362026%21sea%21CA%212287966990%21ABX&curPageLogUid=pDLJrgSquaQ0&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                  |
+| 2        | 20 pcs Blank DSA Keycaps             | 12.5        | Aliexpress     | [link](https://shorturl.at/4GHxS)                                   |
 | 1        | 10 PCS PJ-320A Jack Receptacle       | 1.58        | Aliexpress     | [Link](https://www.aliexpress.com/item/1005004960903273.html)       |
-| 1        | 30 PCS 5x2mm Neodyum Disc Magnets    | 3.62        | Aliexpress     | [Link](https://www.aliexpress.com/item/1005009246377768.html)       |
-| 1        | PCB Manufacturing                    | 10.00       | JLCPCB         |                                                                      |
-| 1        | 3D Manufacturing                     |             | PrintingLegion |                                                                      |
+| 1        | 20 pcs SW-Push 6x6x4.3mm             | 0.26        | Aliexpress     | [Link](https://shorturl.at/fNnse) |
+| 1        | 50 pcs Brass Female to Female Standoffs M2x3mm | 2.72        | Aliexpress     | [Link](https://shorturl.at/DMM1S)|
+| 1        | 50 pcs Nylon Female to Female Standoffs M2x6mm | 1.28        | Aliexpress     | [Link](https://shorturl.at/DEXHc)
+| 1        | 
+| 1        | PCB Manufacturing Center             | 13.04  (without coupon)     | JLCPCB         | 
+| 1        | PCB Manufacturing Top                | 12.64  (without coupon)     | JLCPCB         |
+| 1        | PCB Manufacturing Bottom             | 12.50  (without coupon)     | JLCPCB         |
 
 |Total (CAD, after taxes)| Total (USD, after taxes)|
 |---------------|--|
-|59.09| 43.17|
+|29.94| |
