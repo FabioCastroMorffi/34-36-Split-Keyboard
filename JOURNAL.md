@@ -1,9 +1,10 @@
 ---
-title: "Magnetic Split"
+title: "Raw Split"
 author: "Fabio"
-description: "32 key Split Keyboard with magnets that join to become a single unit"
+description: "36 Key Split Keyboard with three layers of PCB"
 created_at: "2025-06-05"
 ---
+[Jump to Current Design](##July-4th-2025---Big-Change)
 ## Total Time: 25h
 ## June 6th 2025 - Initial idea
 
@@ -97,5 +98,8 @@ I spent the last three days both fixing( and breaking) stuff; in fact, the reaso
 - Maybe have to change it because its not complex enough, maybe(I think its the 3d design is not that bad)
 
 ### Time Spent: 8 hours (Getting ready to ship tomorrowww)
+
+
+## July 4th 2025 - Big Change
 
 
