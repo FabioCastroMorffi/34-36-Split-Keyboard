@@ -136,7 +136,7 @@ For the 3 plates to be connected, I'll use 8 standoffs(4x M2 3mm and 4x M2 6mm).
 
 In order to equilibrate height, I will also add antislip pads on the bottom plate.
 
-### Time Spent: ~15 hours
+### Time Spent: ~20 hours
 
 
 
