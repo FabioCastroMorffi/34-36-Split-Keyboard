@@ -108,7 +108,7 @@ I spent the last three days both fixing( and breaking) stuff; in fact, the reaso
 
 After a long break, I went and took a look at were I left the project a couple of weeks ago and I was .... disappointed with how it turned out. The top of the 3D model had to be changed because it wasn't printable, the design looked bland and the key layout didn't appear as appealing as the first day. What did I do to improve that? I spent the last three days redesigning everything (basically started a new project) and I told myself I would attempt not to use 3D modeling because of how **miserable** 3D modeling felt (manually changing the svg files, once imported, because measurements were off was an aboslute nightmare).
 
-But here we are! with a design a kinda like were I basically replaced the 3d printed top and bottom for PCB plates which gives it more of a raw appearance.
+But here we are! with a design I kinda like were I basically replaced the 3d printed top and bottom for PCB plates which gives it more of a raw appearance. I also went with a more traditional (and useful!) key layout prioritizing ergonomy.
 
 ## PCBs
 
