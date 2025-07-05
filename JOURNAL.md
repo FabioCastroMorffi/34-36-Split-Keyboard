@@ -4,8 +4,12 @@ author: "Fabio"
 description: "36 Key Split Keyboard with three layers of PCB"
 created_at: "2025-06-05"
 ---
+# Important
+
+The orginal idea for the design was scrapped, here's an internal link to the current one: 
 [Jump to Current Design](#july-4th-2025---big-change)
-## Total Time: 25h
+
+## Total Time: Too Much
 ## June 6th 2025 - Initial idea
 
 I've wanted to build a split keyboard for some time but with an additional twist, something (slightly) unique to it. After brainstorming a for a little while, I found I wanted an original design that had something to do with magnets (Love magnets!). Watching projects such as this one ![Split Keebs that could be joined](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/78c3c8f0-ee08-11ee-b7f7-2fbf0d57bb96.jpeg)
@@ -108,24 +112,31 @@ But here we are! with a design a kinda like were I basically replaced the 3d pri
 
 ## PCBs
 
-PCBs for the top, bottom as well as the center of the Split Keyboard 
+### Main PCB
 
-![]()
-![]()
-![]()
+![Center](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-38-26.png)
+![3d center](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-37-54.png)
+
+### Top Plate
+![Top](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-39-09.png)
+
+### Bottom Plate
+![Bottom](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-36-35.png)
 
 ## Assembled 3D Model (imported everything into Onshape)
 ### Overview
 
-![]()
+![Overview](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-41-31.png)
 
 ### Side View
 
 For the 3 plates to be connected, I'll use 8 standoffs(4x M2 3mm and 4x M2 6mm). The small ones are for connecting the top and the center and the big ones are for connecting the bottom and the center. In addition, the M2 screws I'll use are 4 M2 10mm and 4 M2 4mm.
 
-![]()
+![Side View](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-40-52.png)
 
+In order to equilibrate height, I will also add antislip pads on the bottom plate.
 
+### Time Spent: ~15 hours
 
 
 
