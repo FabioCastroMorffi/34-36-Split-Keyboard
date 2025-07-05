@@ -6,7 +6,7 @@ created_at: "2025-06-05"
 ---
 # Important
 
-The orginal idea for the design was scrapped, here's an internal link to the current one: 
+The orginal idea for the design was redesigned, here's an internal link to the current one: 
 [Jump to Current Design](#july-4th-2025---big-change)
 
 ## Total Time: Too Much
