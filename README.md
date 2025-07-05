@@ -1,31 +1,43 @@
-# Magnetic Split
+# Raw Split
 ## Overview
 
-Magnetic Split is a 32 key wired split keyboard that has a small tweak, it has magnets that allow for the "halves" to join with a male/female (poorly executed) mechanism. I decided to go for a smaller keyboard for two main reasons: I want to use it mainly to type, so many keys weren't necessary, and I wanted to be under the 50$ mark.
+Raw Split is a wired 36 key split keyboard made with 3 PCB layers and powered by an RP pico 2040 . I decided to go for a smaller split keyboard for two main reasons: I want it to be portable so I can take it to class and I wanted to be under (or very close to) the 50$ mark.
 
 
 ## Motivation
 After finishing my design for Hackpad, which was an introduction to PCB Design and 3D modelling, I was confident I could go build a bigger project in a more efficient manner but I was completely wrong. I got sent to the Valley of Stupidity earlier than expected. 
 
-Even though the obstacles were many, mainly on the 3D modelling (omg its hard), it was a great learning experience and it will help me build better projects in the future. 
+I had an initial idea with a Split Keyboard that would have magnetic sides but I wasn't proud of the design I came up with (and it wasnt printable) so I decided to scrap it up and do it again with a different idea. The change was mainly on the fact that I abhorred 3D modelling of the top/side and bottom so on the Raw Split I decided to only use PCBs for the full design; the raw aesthetic of the build is where the name comes from -- I'm not very creative with names.
 
-## PCB
-(Initially I wanted to have two PCBS for left and Right, but it ended up being too expensive so I will use only the right one (front and back) for the build)
+## PCBs
 
-![PCB](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-11%2021-23-56.png)
+### Center
 
-![PCB and 3D model](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-11%2022-03-46.png)
+![Center](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-38-26.png)
+![3d center](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-37-54.png)
+
+### Top
+![Top](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-39-09.png)
+
+
+### Bottom
+
+![Bottom](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-36-35.png)
 
 ## CAD
-Due to Fusion360 not being able, in any possible way and trust me I tried **many** alternatives, in Linux, I had to change to OnShape. And It was Great. OnShape provides a great experience that, to me, felt much more intuitive than Fusion.
+Thank you Onshape for being so easy to work with (shame on the horrible experience that is Fusion360's online services for students). I really need to emphasize how much better OnShape is on web, because the initial horrible experience I had with Fusion Online or trying to install a Linux version of Fusion was horrible and made me waste a lot of time. 
 
-![3D design](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-48-53.png)
+Here's the overview of the right split:
 
-![Kissing](https://github.com/FabioCastroMorffi/Magnetic-Split/blob/main/assets/Screenshot%20from%202025-06-17%2018-49-36.png)
+![Overview](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-41-31.png)
 
+![Side View](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-40-52.png)
+
+The total height of the keyboard will be 24.8 mm. The three PCBs measure 1.6 mm in height, the small standoff will have a height of 4 mm while the big one will have a size 6 mm. Finally the height from the top plate to the top of the keycap is approximally 10 mm. 
 
 
 ## BOM
+
 | Quantity | Item                                 | Price (CAD) | Vendor         | Link                                                                 |
 |----------|--------------------------------------|-------------|----------------|----------------------------------------------------------------------|
 | 2        | RP Pico 2040 Green with Pin          | 6.42        | Aliexpress     | [Link](https://shorturl.at/I2swX)       |
@@ -37,11 +49,12 @@ Due to Fusion360 not being able, in any possible way and trust me I tried **many
 | 1        | 20 pcs SW-Push 6x6x4.3mm             | 0.26        | Aliexpress     | [Link](https://shorturl.at/fNnse) |
 | 1        | 50 pcs Brass Female to Female Standoffs M2x3mm | 2.72        | Aliexpress     | [Link](https://shorturl.at/DMM1S)|
 | 1        | 50 pcs Nylon Female to Female Standoffs M2x6mm | 1.28        | Aliexpress     | [Link](https://shorturl.at/DEXHc)
-| 1        | 
+| 2        | 50 pcs M2 5mm and M2 10 mm           | 4.5         | Aliexpress | [Link](https://shorturl.at/Y6ADS) |
+| 1        | Antislip Circular Pads 2mm           | 2.97        | Aliexpress | [Link](https://shorturl.at/uavc9)
 | 1        | PCB Manufacturing Center             | 13.04  (without coupon)     | JLCPCB         | 
 | 1        | PCB Manufacturing Top                | 12.64  (without coupon)     | JLCPCB         |
 | 1        | PCB Manufacturing Bottom             | 12.50  (without coupon)     | JLCPCB         |
 
-|Total (CAD, after taxes)| Total (USD, after taxes)|
+|Total (CAD, after taxes and after 20$ JLcPCB Coupon)| Total (USD, after taxes and after 20$ JLcPCB Coupon)|
 |---------------|--|
-|29.94| |
+|69|50.69|
