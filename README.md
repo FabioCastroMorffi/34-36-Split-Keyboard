@@ -25,6 +25,8 @@ I had an initial idea with a Split Keyboard that would have magnetic sides but I
 ![Bottom](https://github.com/FabioCastroMorffi/Raw-Split/blob/main/assets/Screenshot%20from%202025-07-04%2020-36-35.png)
 
 ## CAD
+[Direct link on Onshape](https://cad.onshape.com/documents/60adbd5316aad71d4d3bcb16/w/73c77201f5fbc04cf68d7350/e/32bb371216fb4a7634cbbee2?renderMode=0&uiState=686715ac173d9866c8e98733)
+
 Thank you Onshape for being so easy to work with (shame on the horrible experience that is Fusion360's online services for students). I really need to emphasize how much better OnShape is on web, because the initial horrible experience I had with Fusion Online or trying to install a Linux version of Fusion was horrible and made me waste a lot of time. 
 
 Here's the overview of the right split:
