@@ -1,7 +1,7 @@
 # Raw Split
 ## Overview
 
-Raw Split is a wired 36 key split keyboard made with 3 PCB layers and powered by an RP pico 2040 . I decided to go for a smaller split keyboard for two main reasons: I want it to be portable so I can take it to class and I wanted to be under (or very close to) the 50$ mark.
+Raw Split is a wired 36 key split keyboard made with 3 PCB layers and powered by an RP pico 2040 on each side. I'm using the Miryoku ZMK as the layout and  I decided to go for a smaller split keyboard for two main reasons: I want it to be portable, mainly so I can use it in class, and I wanted to be under (or very close to) the 50$ mark.
 
 
 ## Motivation
